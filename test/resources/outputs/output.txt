@@ -1,0 +1,66 @@
+D1: [(5,3), (3,3)]
+D6: [(4,5), (4,9)]
+D3: [(5,4), (2,4), (4,4)]
+D10: [(4,6), (2,6), (3,6)]
+K7: [(5,5), (4,5), (4,8), (0,8), (0,9), (0,10)]
+A7: [(0,3), (2,3)]
+A17: [(0,7), (0,8)]
+A12: [(1,5), (2,5), (1,5)]
+A15: [(0,6), (1,6), (2,6)]
+A11: [(0,5), (1,5), (1,4), (2,4)]
+A19: [(5,9), (5,8), (6,8), (6,7)]
+***************************************************************************
+A7: 1 kills
+D1: 0 kills
+D2: 0 kills
+D3: 0 kills
+D4: 0 kills
+D5: 0 kills
+D6: 0 kills
+D8: 0 kills
+D9: 0 kills
+D10: 0 kills
+D11: 0 kills
+D12: 0 kills
+D13: 0 kills
+K7: 0 kills
+A1: 0 kills
+A2: 0 kills
+A3: 0 kills
+A4: 0 kills
+A5: 0 kills
+A6: 0 kills
+A8: 0 kills
+A9: 0 kills
+A10: 0 kills
+A11: 0 kills
+A12: 0 kills
+A13: 0 kills
+A14: 0 kills
+A15: 0 kills
+A16: 0 kills
+A17: 0 kills
+A18: 0 kills
+A19: 0 kills
+A20: 0 kills
+A21: 0 kills
+A22: 0 kills
+A23: 0 kills
+A24: 0 kills
+***************************************************************************
+K7: 10 squares
+D3: 5 squares
+D6: 4 squares
+D10: 3 squares
+A11: 3 squares
+A19: 3 squares
+D1: 2 squares
+D2: 2 squares
+A7: 2 squares
+A12: 2 squares
+A15: 2 squares
+A17: 1 squares
+***************************************************************************
+(2,4)3 pieces
+(2,6)2 pieces
+(1,5)2 pieces
